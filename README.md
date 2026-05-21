@@ -57,7 +57,7 @@ Hyprland_wallpapers/
 ├── Dark/
 ├── Minimal/
 ├── Aesthetic/
-├── Abstract/
+├── Studio-Ghibli/
 └── More wallpapers...
 ```
 
