@@ -34,13 +34,13 @@ Perfect for:
 
 <div align="center">
 
-<img src="wallhaven-mlzoy1.png" width="48%" />
-<img src="wallhaven-og233l.jpg" width="48%" />
+<img width="4096" height="2304" alt="wallhaven-og233l" src="https://github.com/user-attachments/assets/16f5d1c3-420a-4dfa-b703-db0464d463c7" />
+<img width="3840" height="2160" alt="wallhaven-rqo8km" src="https://github.com/user-attachments/assets/0ed1b048-7900-47a9-9d7e-f4f02c6c63fe" />
 
 <br><br>
 
-<img src="wallhaven-qrgqyq.jpg" width="48%" />
-<img src="wallhaven-rqo8km.png" width="48%" />
+<img width="2070" height="1410" alt="wallhaven-e8ww2r" src="https://github.com/user-attachments/assets/8413b29a-8a1e-49f8-bbf7-3d520a887a6c" />
+<img width="2070" height="1410" alt="wallhaven-e8ww2r" src="https://github.com/user-attachments/assets/8413b29a-8a1e-49f8-bbf7-3d520a887a6c" />
 
 </div>
 
