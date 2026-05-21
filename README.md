@@ -1,3 +1,4 @@
+
 # 🌌 Hyprland Wallpapers
 
 > A collection of beautiful, original, aesthetic, and minimalist wallpapers specially curated for **Hyprland** users 🖥️✨
@@ -34,13 +35,14 @@ Perfect for:
 
 <div align="center">
 
-<img width="4096" height="2304" alt="wallhaven-og233l" src="https://github.com/user-attachments/assets/16f5d1c3-420a-4dfa-b703-db0464d463c7" />
-<img width="3840" height="2160" alt="wallhaven-rqo8km" src="https://github.com/user-attachments/assets/0ed1b048-7900-47a9-9d7e-f4f02c6c63fe" />
-
+<img width="3840" height="2160" alt="od_hyprland" src="https://github.com/user-attachments/assets/91327797-a0c5-4483-b938-cb555fc59729" />
 <br><br>
+<img width="4096" height="2304" alt="wallhaven-og233l" src="https://github.com/user-attachments/assets/16f5d1c3-420a-4dfa-b703-db0464d463c7" />
+<br><br>
+<img width="5039" height="2835" alt="Lofi_Cat" src="https://github.com/user-attachments/assets/61c2b8af-a247-424b-a2c5-089423b2f6d6" />
+<br><br>
+<img width="2070" height="1410" alt="wallhaven-e8ww2r" src="https://github.com/user-attachments/assets/8413b29a-8a1e-49f8-bbf7-3d520a887a6c" />
 
-<img width="2070" height="1410" alt="wallhaven-e8ww2r" src="https://github.com/user-attachments/assets/8413b29a-8a1e-49f8-bbf7-3d520a887a6c" />
-<img width="2070" height="1410" alt="wallhaven-e8ww2r" src="https://github.com/user-attachments/assets/8413b29a-8a1e-49f8-bbf7-3d520a887a6c" />
 
 </div>
 
